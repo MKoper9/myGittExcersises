@@ -1,2 +1,3 @@
 "Welcome to my first Git File"
 "New commit 123"
+"text in new branch - newbranch"
